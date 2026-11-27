@@ -6,14 +6,14 @@
 /*   By: eteixeir <eteixeir@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/12 13:32:32 by eteixeir          #+#    #+#             */
-/*   Updated: 2026/11/23 16:06:34 by eteixeir         ###   ########.fr       */
+/*   Updated: 2026/11/27 03:28:39 by eteixeir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <iostream>
 #include <csignal>
 #include <cstdlib>
-#include "Server.hpp"
+#include "../inc/Server.hpp"
 
 # define N_ARGUMENTS 3
 
